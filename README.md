@@ -1,4 +1,4 @@
-License Plate Recognition
+**License Plate Recognition**
 Welcome to the License Plate Recognition project! This repository contains a solution for detecting and reading license plates from images using advanced computer vision techniques.
 
 Features
